@@ -1,3 +1,10 @@
+#set up
+
+Clone this project to local repository
+run "npm install" command
+run "node index.js" command and check server running on port 5000 in console.
+open "http://localhost://5000" in browser
+
 # Demo: A Simple Voice AI Bot with Web Speech API and Node.js
 
 This demo uses the experimental Web Speech API, which is currently only [supported](http://caniuse.com/#search=speech) by Blink-based browsers including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser, and Baidu Browser.
