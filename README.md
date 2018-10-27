@@ -1,9 +1,13 @@
-#set up
+# Set up
 
-Clone this project to local repository
-run "npm install" command
-run "node index.js" command and check server running on port 5000 in console.
-open "http://localhost://5000" in browser
+1. Clone this project to local repository
+2. run "npm install" command
+3. run "node index.js" command and check server running on port 5000 in console.
+4. open "http://localhost://5000" in browser
+
+# For more info visit below site
+https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/
+
 
 # Demo: A Simple Voice AI Bot with Web Speech API and Node.js
 
